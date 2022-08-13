@@ -36216,7 +36216,6 @@ a.ns.apacheemailvision.net.daraz.com
 a.ns.assetsvision.net.daraz.com
 a.ns.authenticate-emailvision.net.daraz.com
 a.ns.campaign.adobe.com
-a.ns.cdninstagram.com
 a.ns.cloudapp-emailvision.net.daraz.com
 a.ns.domadd.getresponse.com
 a.ns.eidsvision.net.daraz.com
